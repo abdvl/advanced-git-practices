@@ -12,3 +12,5 @@ commit 2
 
 --- 
 sb1 - fixup!
+
+amend
